@@ -1,10 +1,6 @@
 # Iris Flower Classification using Machine Learning
 
-This project implements a **machine learning classification model** to predict the species of an Iris flower based on its physical measurements. It uses the classic **Iris dataset**, making it a strong beginner-to-intermediate project for showcasing core **Data Science and ML concepts**.
-
-The project demonstrates the complete workflow of a classification problem, including data preprocessing, exploratory data analysis, model training, and evaluation.
-
----
+This project implements a **machine learning classification model** to predict the species of an Iris flower based on its physical measurements.
 
 ## Project Overview
 The Iris Flower Classification problem involves predicting one of three species:
